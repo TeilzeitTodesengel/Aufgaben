@@ -1,0 +1,3 @@
+Die dritte Aufgabe:
+Erstelle ein Popup mit der Bibliothek Tkinter (ist vorinstalliert).
+Als Inhalt sollte da "Hallo Welt" drinstehen.
