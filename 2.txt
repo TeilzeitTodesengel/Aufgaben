@@ -1,0 +1,5 @@
+Hier ist die 2. Aufgabe:
+Sortiere die gegebene Liste aufsteigend und absteigend.
+Dabei darf diese nicht verändert werden und nur einmal initialisiert werden.
+
+numbers = [16, 8, 26, 4, 1, 3]

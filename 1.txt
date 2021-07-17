@@ -1,0 +1,4 @@
+Deine Aufgabe ist es ein Python Script zu schreiben mit dem aus der Konsole die Eingabe
+des Nutzers gelesen werden kann. Nach jeder Eingabe soll diese ausgegeben werden. Davor soll immer stehen:
+Meine Eingabe ist:
+Lade das Script mit dem Namen 1_fertig in das Repository hoch.
