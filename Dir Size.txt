@@ -1,0 +1,1 @@
+Schreibe ein Script, welches mit Hilfe der Os Bibliothek von Python die Größe eines Ordners berechnet.
